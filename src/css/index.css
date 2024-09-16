@@ -14,12 +14,11 @@
   width: 100%;
   text-align: center;
   display: flex;
-  background-image: url("/src/img/sec1/main_back.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   z-index: -1;
-}
+} 
 
 .title-box p {
   color: white;
